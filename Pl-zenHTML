@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Menu</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Anton&family=Itim&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Itim&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+ 
+    </head>
+
+    <body>
+
+        <div class="head">
+            <h1>Pl-zen</h1>
+            <ul>
+                <li>Menu</li>
+            </ul>
+        
+            <a href="https://www.google.com/maps/place/Pl-zen/@41.8576036,-87.6667521,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2d07147d9d23:0x492d4e09f12bde54!8m2!3d41.8576871!4d-87.664566">Directions</a>
+            <ul>
+                <li>Call us</li>
+            </ul>
+        </div>
+        <img src="https://media.timeout.com/images/100920059/750/422/image.jpg">
+        <div class="images">
+            <img src="https://s3-media0.fl.yelpcdn.com/bphoto/ERoT_Eiw3aUpTEBl1of7rQ/258s.jpg">
+            <img src="https://s3-media0.fl.yelpcdn.com/bphoto/DwLDuK9OWtmaY-2kQJ8uAw/258s.jpg">
+            <img src="https://s3-media0.fl.yelpcdn.com/bphoto/ajI_k5GKnmBpmHT75P1_9A/258s.jpg">
+            <img src="https://s3-media0.fl.yelpcdn.com/bphoto/0XuDGFFvdCRnltuXadW9ew/258s.jpg">
+            <img src="https://s3-media0.fl.yelpcdn.com/bphoto/i-3Ctj0q-kbMywG0GXHO6g/258s.jpg">
+        </div>
+    </body>
+</html>
